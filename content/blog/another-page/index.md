@@ -1,9 +1,9 @@
 ---
 title: Please Money
-date: '2015-05-01T22:12:03.284Z'
-description: Hello World
+date: '2020-01-01'
+description: We need money!
 ---
-
+I am Warioba and I want your money!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDUyMTk4MF19
+eyJoaXN0b3J5IjpbNjE5OTA0MjA5XX0=
 -->
