@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello World!!!
+date: '2015-05-01T22:12:03.284Z'
+description: Hello World
 ---
 
 This is my first post on my new fake blog! How exciting!
@@ -18,5 +18,7 @@ Oh, and here's a great quote from this Wikipedia on
 > wrapped in plastic, and vacuum packed. From the salt curing process, the
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
+
+lalala lilili
 
 ![Chinese Salty Egg](./salty_egg.jpg)
